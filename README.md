@@ -5,7 +5,7 @@
 Model rockets are fragile and storing them safely is challenging.
 Making them visually-accessible via display helps to keep interest and curiosity in rocketry.
 
-<img src="wall-mounted-rockets.jpg" alt="Wall mounted rockets" width="300" align="right">
+<img src="wall-mounted-rockets.jpg" alt="Wall mounted rockets" width="200" align="right">
 
 This project provides the 3D models for a bracket allowing storage and display of model rockets.
 Since model rockets can take several newtons of force through their engine mounts - it is assumed that this is the most durable part of the rocket to use for mounting.
@@ -18,7 +18,7 @@ Included parts for mounting:
 Required parts to complete:
 1. 2x small drywall screws (or similar) for each bracket
 
-<img src="mounting-detail.jpg" alt="parts detail" width="300" align="right">
+<img src="mounting-detail.jpg" alt="parts detail" width="300" align="left">
 
 ## Print Settings
 
