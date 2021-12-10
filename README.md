@@ -12,8 +12,8 @@ Since model rockets can take several newtons of force through their engine mount
 The wall bracket mounts the rocket vertically on the wall by way of an engine-blank.
 
 Included parts for mounting:
-1. [Wall bracket](rocket-engine_blank.stl)
-1. [Engine blank](rocket-wall_bracket.stl)
+1. [Wall bracket](rocket-wall_bracket.stl)
+1. [Engine blank](rocket-engine_blank.stl)
 
 Required parts to complete:
 1. 2x small drywall screws (or similar) for each bracket
